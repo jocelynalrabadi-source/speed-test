@@ -1,0 +1,2 @@
+this is a project i built while i was taking the python course in sdk learning center, its simple yet fun. Its a quiz i made using streamlit, its a quiz for people who just learned python and want to test their basic skills and want to do that in a fun way so i made this quiz with a timer so that the user can test their own skill and also have that rush because of the timer, it makes them want to challenge themselves to solve the questions faster each time.
+
